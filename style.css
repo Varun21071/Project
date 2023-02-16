@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(45, 23, 101);
+    text-align: center;
+    
+}
+body{
+    background-image: url("Hiring.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+}
+
+form{
+    border: 5px inset;
+    border-radius: 10px;
+    margin-left: 0px;
+    margin-right: 300px;
+    padding: 65px;
+    border-width: 10px;
+    background-color: rgba(164, 186, 213, 0.22);
+}
+
+
+div.main{
+    margin-top: 0px;
+    margin-left: 450px;
+
+}
+div.back{
+    margin: 0px;
+}
